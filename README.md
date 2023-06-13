@@ -9,7 +9,7 @@ En este repositorio encontrarás los proyectos y ejercicios prácticos desarroll
 ☠ Contenido ☠
 A continuación se detalla el contenido actual del repositorio:
 
-<a href="https://codepen.io/Hijo-Del-Ma-z/pen/GRwpKxP">☠ [Práctica del Sábado 10 de Junio del 2023] ☠</a> : La práctica de HTML DW3 es una página web básica que utiliza etiquetas HTML para estructurar y organizar el contenido. A continuación se describen los elementos principales presentes en la práctica:
+<a href="https://codepen.io/Hijo-Del-Ma-z/pen/GRwpKxP" target="_blank">☠ [Práctica del Sábado 10 de Junio del 2023] ☠</a> : La práctica de HTML DW3 es una página web básica que utiliza etiquetas HTML para estructurar y organizar el contenido. A continuación se describen los elementos principales presentes en la práctica:
 
 - Se utiliza la etiqueta `meta` para proporcionar información sobre la página, como la codificación de caracteres, descripción, palabras clave, autor y la configuración de la vista en dispositivos.
 - El título de la página se especifica mediante la etiqueta `title`, que se muestra en la pestaña del navegador.
